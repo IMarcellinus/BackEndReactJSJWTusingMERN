@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `await Users.sync();`
+migrasikan terlebih dahulu database ke MySql dengan pergi index.js 
+
+### `nodemon index`
+running server pada port 5000
+
 ### `npm start`
 
 Runs the app in the development mode.\
